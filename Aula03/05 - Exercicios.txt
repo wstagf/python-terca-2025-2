@@ -1,0 +1,61 @@
+🔹 Exercícios com if / else / elif
+
+1 . Número positivo ou negativo
+Peça um número ao usuário e informe se ele é positivo, negativo ou zero.
+
+2. Maior de idade
+Pergunte a idade de uma pessoa e diga se ela é maior de idade (>= 18) ou menor de idade.
+
+3. Classificação de notas
+Peça uma nota (0 a 10) e informe:
+
+>= 9: Excelente
+
+>= 7: Bom
+
+>= 5: Regular
+
+< 5: Reprovado
+
+
+
+
+4. Par ou Ímpar
+Leia um número e diga se ele é par ou ímpar.
+
+
+
+
+
+🔹 Exercícios com for
+
+5. Contagem
+Faça um programa que conte de 1 até 10 usando for.
+
+6. Tabuada
+Peça um número e mostre sua tabuada de 1 a 10.
+
+7. Soma de números
+Peça ao usuário um número n e calcule a soma de 1 até n.
+
+8. Lista de nomes
+Crie uma lista com nomes e use um for para exibir cada nome da lista.
+
+9. Números pares
+Mostre todos os números pares de 1 a 50.
+
+
+
+
+
+🔹 Desafio (misturando tudo)
+
+10. Caixa eletrônico simplificado
+
+Pergunte o valor que o usuário deseja sacar.
+
+Use if / elif / else para verificar se o valor é múltiplo de 10.
+
+Se for válido, mostre as notas de R$50, R$20 e R$10 necessárias.
+
+Se não for, avise que não é possível sacar esse valor.
